@@ -31,10 +31,10 @@ AS
 *******************************************************************************
 **       Change History
 **************************************
-** Date:        Author:             Description:
-** ----------   --------            ------------
-** 9/15/2014	Sancrant			Inserts/Updates into ztmls from vewMLS...Fully replaces Xlat
-** 12/24/2014	Sancrant			Added support for FieldLockCode = 1                                   
+** Date:                  Description:
+** ----------             ------------
+** 9/15/2014			Inserts/Updates into ztmls from vewMLS...Fully replaces Xlat
+** 12/24/2014			Added support for FieldLockCode = 1 
 **
 **
 ******************************************************************************/
