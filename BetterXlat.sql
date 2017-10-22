@@ -19,6 +19,7 @@ GO
 SET QUOTED_IDENTIFIER ON
 GO
 
+
 CREATE procedure [dbo].[stp_BetterXlat]
 (
 @MLSID int

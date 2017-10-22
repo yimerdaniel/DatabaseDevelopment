@@ -18,6 +18,7 @@ GO
 
 SET QUOTED_IDENTIFIER ON
 GO
+
 CREATE PROC [dbo].[STP_InsertToMultipleTables]
 AS
 	IF OBJECT_ID('Tempdb..#TempTableNames', 'U') IS NOT NULL 
